@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Firestore</string>
+    <string name="hello_blank_fragment">Pusty fragament</string>
+    <string name="login">Login</string>
+    <string name="password">Hasło</string>
+    <string name="dont_have_account">Nie masz konta?</string>
+    <string name="register">Rejestracja</string>
+    <string name="forgot_password">Zapomniałeś hasła?</string>
+    <string name="email">E-mail</string>
+    <string name="create_acc">Załóż konto</string>
+    <string name="first_name">Imię</string>
+    <string name="last_name">Nazwisko</string>
+    <string name="confirm_password">Powtórz hasło</string>
+    <string name="by_clicking_register">Zakładając konto potwierdzasz akceptację <b> regulaminu</b>.</string>
+    <string name="have_account">Masz już konto?</string>
+</resources>

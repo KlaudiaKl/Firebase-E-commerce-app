@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "127291829835",
+    "project_id": "shop-76cec",
+    "storage_bucket": "shop-76cec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:127291829835:android:175c7c08d09cc6b1c427ce",
+        "android_client_info": {
+          "package_name": "com.klaudiakrochmal.firestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "127291829835-gjlmkgtsaupha3thfg0lj1urfba1fodl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.klaudiakrochmal.firestore",
+            "certificate_hash": "a61ee87bcca6cb2441b3e8c65a8e2cbda831d247"
+          }
+        },
+        {
+          "client_id": "127291829835-rr0ac7ts1r2afftsj53l8n6d0pm9232c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBr-sahDg56muHyDnT9TrgPgA8V9ye2rM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "127291829835-rr0ac7ts1r2afftsj53l8n6d0pm9232c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
