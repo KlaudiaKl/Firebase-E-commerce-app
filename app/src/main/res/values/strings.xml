@@ -14,4 +14,13 @@
     <string name="confirm_password">Confirm password</string>
     <string name="by_clicking_register">By clicking <b>Register</b> you confirm that you accept our <u> terms and conditions </u>.</string>
     <string name="have_account">Already have an account?</string>
+    <string name="required_field">Field must not be empty</string>
+    <string name="provide_valid_email">Provide a valid e-mail adress</string>
+    <string name="password_length">Password must have at least 8 characters</string>
+    <string name="check_password">Passwords are not the same</string>
+    <string name="too_short">Must be at least 2 characters</string>
+    <string name="fill_all_fields">Fill out all fields</string>
+    <string name="sign_in_with_google">Sign in with Google</string>
+    <string name="invalid_login_or_passord">Either e-mail or password are incorrect</string>
+    <string name="hello">Hello</string>
 </resources>

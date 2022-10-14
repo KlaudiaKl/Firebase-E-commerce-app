@@ -7,20 +7,31 @@
 
     <fragment
         android:id="@+id/loginFragment"
-        android:name="com.klaudiakrochmal.firestore.LoginFragment"
+        android:name="com.klaudiakrochmal.firestore.fragments.LoginFragment"
         android:label="fragment_login"
         tools:layout="@layout/fragment_login" >
         <action
             android:id="@+id/action_loginFragment_to_registerFragment"
             app:destination="@id/registerFragment" />
+        <action
+            android:id="@+id/action_loginFragment_to_userHomeFragment"
+            app:destination="@id/userHomeFragment" />
     </fragment>
     <fragment
         android:id="@+id/registerFragment"
-        android:name="com.klaudiakrochmal.firestore.RegisterFragment"
+        android:name="com.klaudiakrochmal.firestore.fragments.RegisterFragment"
         android:label="fragment_register"
         tools:layout="@layout/fragment_register" >
         <action
             android:id="@+id/action_registerFragment_to_loginFragment"
             app:destination="@id/loginFragment" />
+        <action
+            android:id="@+id/action_registerFragment_to_userHomeFragment"
+            app:destination="@id/userHomeFragment" />
     </fragment>
+    <fragment
+        android:id="@+id/userHomeFragment"
+        android:name="com.klaudiakrochmal.firestore.fragments.UserHomeFragment"
+        android:label="fragment_user_home"
+        tools:layout="@layout/fragment_user_home" />
 </navigation>

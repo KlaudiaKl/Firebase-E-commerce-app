@@ -14,4 +14,13 @@
     <string name="confirm_password">Powtórz hasło</string>
     <string name="by_clicking_register">Zakładając konto potwierdzasz akceptację <b> regulaminu</b>.</string>
     <string name="have_account">Masz już konto?</string>
+    <string name="required_field">Pole nie może być puste</string>
+    <string name="provide_valid_email">Nieprawidłowy adres e-mail</string>
+    <string name="password_length">Hasło musi zawierać min. 8 znaków</string>
+    <string name="check_password">Hasła się nie zgadzają</string>
+    <string name="too_short">Powinno zawierać min. 2 litery</string>
+    <string name="fill_all_fields">Wypełnij wszystkie pola</string>
+    <string name="sign_in_with_google">Zaloguj się przez Google</string>
+    <string name="invalid_login_or_passord">Login lub hasło są nieprawidłowe</string>
+    <string name="hello">Witaj</string>
 </resources>
